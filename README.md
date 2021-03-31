@@ -16,7 +16,7 @@ This webpage allows the user to interact on a webpage with a "split" screen via 
 
 ## Final Product
 
-![video sample of project]()
+![video sample of project](./attachments/Split-Landing-Page-and-10-more-p.gif)
 
 ## Technologies
 
